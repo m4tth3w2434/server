@@ -1,4 +1,4 @@
-In order to play this Modpack do the following in order:
+Para usar este modpack debes seguir los siguientes pasos:
 
 1. INSTALAR FORGE
 2. METER ESTAS CARPETAS EN EL .minecraft despues de instalar forge (no metais el de resource packs ni el de shaders)
