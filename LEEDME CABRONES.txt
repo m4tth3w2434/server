@@ -1,0 +1,6 @@
+In order to play this Modpack do the following in order:
+
+1. INSTALAR FORGE
+2. METER ESTAS CARPETAS EN EL .minecraft despues de instalar forge (no metais el de resource packs ni el de shaders)
+3. INICIAR MINECRAFT CON FORGE DESPUES EN .minecraft METER LOS SHADERS Y RESOURCE
+4. dsifrute puto
