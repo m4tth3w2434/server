@@ -5,7 +5,7 @@
 	#Spawning options for minecraft:zombie_horse
 	[minecraft.zombie_horse]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning =true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -343,7 +343,7 @@
 	#Spawning options for minecraft:ravager
 	[minecraft.ravager]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -395,7 +395,7 @@
 	#Spawning options for minecraft:slime
 	[minecraft.slime]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -434,7 +434,7 @@
 	#Spawning options for minecraft:blaze
 	[minecraft.blaze]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -447,7 +447,7 @@
 	#Spawning options for minecraft:piglin
 	[minecraft.piglin]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -512,7 +512,7 @@
 	#Spawning options for minecraft:guardian
 	[minecraft.guardian]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -616,7 +616,7 @@
 	#Spawning options for minecraft:elder_guardian
 	[minecraft.elder_guardian]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -655,7 +655,7 @@
 	#Spawning options for minecraft:strider
 	[minecraft.strider]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -707,7 +707,7 @@
 	#Spawning options for minecraft:witch
 	[minecraft.witch]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -798,7 +798,7 @@
 	#Spawning options for minecraft:magma_cube
 	[minecraft.magma_cube]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -902,7 +902,7 @@
 	#Spawning options for minecraft:shulker
 	[minecraft.shulker]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -980,7 +980,7 @@
 	#Spawning options for minecraft:piglin_brute
 	[minecraft.piglin_brute]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -1032,7 +1032,7 @@
 	#Spawning options for minecraft:phantom
 	[minecraft.phantom]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -1071,7 +1071,7 @@
 	#Spawning options for minecraft:evoker
 	[minecraft.evoker]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -1110,7 +1110,7 @@
 	#Spawning options for minecraft:enderman
 	[minecraft.enderman]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -1474,7 +1474,7 @@
 	#Spawning options for minecraft:glow_squid
 	[minecraft.glow_squid]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2124,7 +2124,7 @@
 	#Spawning options for graveyard:skeleton_creeper
 	[graveyard.skeleton_creeper]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2137,7 +2137,7 @@
 	#Spawning options for graveyard:acolyte
 	[graveyard.acolyte]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2150,7 +2150,7 @@
 	#Spawning options for graveyard:reaper
 	[graveyard.reaper]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2163,7 +2163,7 @@
 	#Spawning options for graveyard:ghoul
 	[graveyard.ghoul]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2176,7 +2176,7 @@
 	#Spawning options for graveyard:nightmare
 	[graveyard.nightmare]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2189,7 +2189,7 @@
 	#Spawning options for graveyard:revenant
 	[graveyard.revenant]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2202,7 +2202,7 @@
 	#Spawning options for graveyard:falling_corpse
 	[graveyard.falling_corpse]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2215,7 +2215,7 @@
 	#Spawning options for graveyard:lich
 	[graveyard.lich]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2228,7 +2228,7 @@
 	#Spawning options for graveyard:wraith
 	[graveyard.wraith]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2241,7 +2241,7 @@
 	#Spawning options for graveyard:corrupted_pillager
 	[graveyard.corrupted_pillager]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2254,7 +2254,7 @@
 	#Spawning options for graveyard:corrupted_vindicator
 	[graveyard.corrupted_vindicator]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2267,7 +2267,7 @@
 	#Spawning options for graveyard:ghouling
 	[graveyard.ghouling]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2280,7 +2280,7 @@
 	#Spawning options for graveyard:skull
 	[graveyard.skull]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2293,7 +2293,7 @@
 	#Spawning options for graveyard:nameless_hanged
 	[graveyard.nameless_hanged]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2574,7 +2574,7 @@
 	#Spawning options for betteranimalsplus:tarantulahair
 	[betteranimalsplus.tarantulahair]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2600,7 +2600,7 @@
 	#Spawning options for betteranimalsplus:tarantula
 	[betteranimalsplus.tarantula]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2717,7 +2717,7 @@
 	#Spawning options for betteranimalsplus:bobbit_worm
 	[betteranimalsplus.bobbit_worm]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2808,7 +2808,7 @@
 	#Spawning options for betteranimalsplus:brownbear
 	[betteranimalsplus.brownbear]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2821,7 +2821,7 @@
 	#Spawning options for betteranimalsplus:blackbear
 	[betteranimalsplus.blackbear]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2847,7 +2847,7 @@
 	#Spawning options for betteranimalsplus:feralwolf
 	[betteranimalsplus.feralwolf]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2860,7 +2860,7 @@
 	#Spawning options for betteranimalsplus:coyote
 	[betteranimalsplus.coyote]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2899,7 +2899,7 @@
 	#Spawning options for betteranimalsplus:boar
 	[betteranimalsplus.boar]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -2912,7 +2912,7 @@
 	#Spawning options for betteranimalsplus:lamprey
 	[betteranimalsplus.lamprey]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3003,7 +3003,7 @@
 	#Spawning options for betteranimalsplus:barracuda
 	[betteranimalsplus.barracuda]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3029,7 +3029,7 @@
 	#Spawning options for betteranimalsplus:piranha
 	[betteranimalsplus.piranha]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3071,7 +3071,7 @@
 	#Spawning options for darkerdepths:glowshroom_monster
 	[darkerdepths.glowshroom_monster]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3145,7 +3145,7 @@
 	#Spawning options for deeperdarker:sculk_centipede
 	[deeperdarker.sculk_centipede]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3158,7 +3158,7 @@
 	#Spawning options for deeperdarker:sculk_leech
 	[deeperdarker.sculk_leech]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3171,7 +3171,7 @@
 	#Spawning options for deeperdarker:sculk_snapper
 	[deeperdarker.sculk_snapper]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3184,7 +3184,7 @@
 	#Spawning options for deeperdarker:shattered
 	[deeperdarker.shattered]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3197,7 +3197,7 @@
 	#Spawning options for deeperdarker:shriek_worm
 	[deeperdarker.shriek_worm]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3210,7 +3210,7 @@
 	#Spawning options for deeperdarker:stalker
 	[deeperdarker.stalker]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -3365,7 +3365,7 @@
 	#Spawning options for mutantmonsters:spider_pig
 	[mutantmonsters.spider_pig]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
