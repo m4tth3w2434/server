@@ -5,7 +5,7 @@
 	#Spawning options for minecraft:zombie_horse
 	[minecraft.zombie_horse]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning =true
+		allowNormalSpawning = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -31,7 +31,7 @@
 	#Spawning options for minecraft:zoglin
 	[minecraft.zoglin]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -824,7 +824,7 @@
 	#Spawning options for minecraft:skeleton
 	[minecraft.skeleton]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -5011,6 +5011,35 @@
 
 	#Spawning options for tombstone:spectral_bite
 	[tombstone.spectral_bite]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the simplyswords mod.
+[simplyswords]
+
+	#Spawning options for simplyswords:battlestandard
+	[simplyswords.battlestandard]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for simplyswords:battlestandarddark
+	[simplyswords.battlestandarddark]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?

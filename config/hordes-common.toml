@@ -5,7 +5,7 @@
 	#Set to true to disable natural horde spawns (hordes can only be spawned with commands).
 	hordesCommandOnly = false
 	#Amount of mobs to spawn per wave.
-	spawnAmount = 25
+	spawnAmount = 28
 	#Multiplier by which the spawn amount increases by each time the event naturally spawns. (Set to 1 to disable scaling.)
 	hordeSpawnMultiplier = 1.05
 	#Time in ticks the event lasts for
@@ -19,11 +19,11 @@
 	#Amount of days a horde event can be randomly delayed by
 	hordeSpawnVariation = 0
 	#Max cap for the number of entities that can exist from the horde at once.
-	hordeSpawnMax = 160
+	hordeSpawnMax = 100
 	#Length of a day (use only if you have another day that changes the length of the day/night cycle) Default is 24000
 	dayLength = 24000
 	#Set to true to enable the horde spawning on the first day. (Game day 0)
-	spawnFirstDay = false
+	spawnFirstDay = true
 	#Set to false to disable the use of beds during a horde event.
 	canSleepDuringHorde = false
 	#How much should the size of each horde scale down by when multiple players are near each other?
@@ -45,11 +45,11 @@
 	#Whether later levels of infected should depleet hunger quicker? 
 	infectHunger = true
 	#Chance out of 100 for a player to get infected
-	playerInfectChance = 75
+	playerInfectChance = 1
 	#How long do each of the 4 effect phases last for before the next phase is activated?
 	ticksForEffectStage = 6000
 	#Do players who die to infection spawn a zombie?
-	infectionSpawnsZombiePlayers = true
+	infectionSpawnsZombiePlayers = false
 	#A list of entities that can be infected, followed by the chance out of 100 to infect, then the entity to convert them to, entities can have nbt attached to them.(e.g. minecraft:villager-85-minecraft:zombie_villager{ActiveEffects:[{Id:12,Amplifier:0,Duration:10000}]}), note: players and villagers have special code accociated with them, and should not be in this list
 	customConversionList = ["minecraft:horse-65-minecraft:zombie_horse", "minecraft:piglin-75-minecraft:zombified_piglin", "minecraft:piglin_brute-35-minecraft:zombified_piglin", "minecraft:hoglin-35-minecraft:zoglin"]
 	#Do entities on the infectionEntities list automatically target entities on the infectionConversionList

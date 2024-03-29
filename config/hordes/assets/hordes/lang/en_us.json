@@ -15,7 +15,7 @@
 	"commands.hordes.HordeClean.success":"Cleared all existing horde world data",
 	"commands.hordes.HordeReset.usage":"/resetHorde <optional: player>",
 	"commands.hordes.HordeReset.success":"Reset all horde data for player %1$s",
-	"message.hordes.EventStart":"QUE COMIENZE LA MATANZA",
+	"message.hordes.EventStart":"QUE COMIENZE LA MATANZA!!!!!!!",
 	"message.hordes.EventEnd":"El aire está tranquilo, la horda ha parado",
 	"message.hordes.TrySleep":"No descanses mamawuebo que viene la santa inquisicion",
 	"message.hordes.title":"The Hordes",
